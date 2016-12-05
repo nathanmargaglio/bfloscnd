@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../bfloscnd/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/css/main.css" afterPath="$PROJECT_DIR$/../bfloscnd/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/index.html" afterPath="$PROJECT_DIR$/../bfloscnd/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/js/main.js" afterPath="$PROJECT_DIR$/../bfloscnd/js/main.js" />
     </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bfloscnd/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="163">
@@ -57,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../bfloscnd/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="107" selection-start-line="4" selection-start-column="107" selection-end-line="4" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -93,9 +92,9 @@
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/../bfloscnd/app.py" />
-        <option value="$PROJECT_DIR$/../bfloscnd/index.html" />
         <option value="$PROJECT_DIR$/../bfloscnd/css/main.css" />
         <option value="$PROJECT_DIR$/../bfloscnd/js/main.js" />
+        <option value="$PROJECT_DIR$/../bfloscnd/index.html" />
       </list>
     </option>
   </component>
@@ -432,14 +431,21 @@
       <option name="project" value="LOCAL" />
       <updated>1480972557519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Up and Running">
+      <created>1480976507961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1480976507961</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="802" height="876" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988358" sideWeight="0.5025" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -476,7 +482,8 @@
     <MESSAGE value="Made things worth looking at." />
     <MESSAGE value="favicon" />
     <MESSAGE value="titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="titles" />
+    <MESSAGE value="Up and Running" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up and Running" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -509,18 +516,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../bfloscnd/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../bfloscnd/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bfloscnd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="107" selection-start-line="4" selection-start-column="107" selection-end-line="4" selection-end-column="107" />
           <folding />
         </state>
       </provider>
