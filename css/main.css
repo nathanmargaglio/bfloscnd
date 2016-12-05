@@ -2,4 +2,6 @@ html, body{
     height: 100%;
     width: 100%;
     font-family: 'Bungee', cursive;
+    margin: 0;
+    overflow: hidden;
 }

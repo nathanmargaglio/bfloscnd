@@ -47,6 +47,7 @@ generateGrid = function(secAmnt){
     var main = document.createElement("DIV");
     main.style.height = "100%";
     main.style.width = "100%";
+    main.style.overflow = "hidden";
     document.body.appendChild(main);
 
     for (y = 0; y < secAmnt; ++y){
