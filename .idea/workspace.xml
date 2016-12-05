@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/../bfloscnd/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480971918252</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="favicon">
+      <created>1480972434970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480972434970</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -448,7 +455,8 @@
     <MESSAGE value="Moved the index" />
     <MESSAGE value="fixed some links" />
     <MESSAGE value="Made things worth looking at." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made things worth looking at." />
+    <MESSAGE value="favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -492,7 +500,7 @@
     <entry file="file://$PROJECT_DIR$/../bfloscnd/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
