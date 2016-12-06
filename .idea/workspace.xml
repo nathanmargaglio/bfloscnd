@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f38005a-56a0-4a6e-b60e-4ecc9d981b6c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../bfloscnd/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/app.py" afterPath="$PROJECT_DIR$/../bfloscnd/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/css/main.css" afterPath="$PROJECT_DIR$/../bfloscnd/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bfloscnd/js/main.js" afterPath="$PROJECT_DIR$/../bfloscnd/js/main.js" />
     </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -460,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480978959491</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Up and Running">
+      <created>1480985409820</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1480985409821</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
