@@ -3,7 +3,6 @@ critters = [
 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChristopherWalkenFeb08.jpg/220px-ChristopherWalkenFeb08.jpg",
 "http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjM0MDAwNjcyMjY4.jpg",
 "http://www.famousbirthdays.com/headshots/christopher-walken-3.jpg",
-"http://www.whale.to/b/christ10.jpg",
 "https://inafutureage.files.wordpress.com/2010/05/christopherwalken1.jpg",
 "http://media.salon.com/2015/04/christopher_walken.jpg",
 "https://s-media-cache-ak0.pinimg.com/originals/1d/17/b9/1d17b926cb140339fa5d3524711d9798.jpg"
