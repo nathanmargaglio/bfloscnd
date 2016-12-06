@@ -1,10 +1,10 @@
 html, body{
     height: 100%;
-    width: 100%;
+    padding-top: auto;
+    //width: 100%;
     font-family: 'Bungee', cursive;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px
-    overflow: hidden;
-}
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    position: relative;
+    }
