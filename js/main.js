@@ -91,6 +91,7 @@ generateGrid = function(secAmnt, center_image){
         row.style.top = (y*100./secAmnt).toString() + "%";
         row.style.left = "0";
         row.style.height = (100./secAmnt).toString() + "%";
+        row.style.width = "100%";
         main.appendChild(row);
         for (x = 0; x < secAmnt; ++x){
             var sec = document.createElement("DIV");
